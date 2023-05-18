@@ -1,0 +1,6 @@
+# Dependicies Import
+#file paths accross operating systems
+import os
+print(os.cwd())
+
+
